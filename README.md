@@ -9,3 +9,5 @@ The Category Thumbnail Image extension helps you to add Category Thumbnail Image
 - Run command: <b>php bin/magento setup:static-content:deploy</b>
 - Now flush cache: <b>php bin/magento cache:flush</b>
 
+
+REF URL: https://webkul.com/blog/add-custom-image-attribute-category-magento-2/
